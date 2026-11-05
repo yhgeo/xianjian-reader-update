@@ -1,14 +1,14 @@
 {
-  "version": "1.2.0",
-  "versionCode": 3,
-  "publishedAt": "2026-11-05T17:57:46.123Z",
-  "notes": "1.2.0：加密包带设备指纹（导入他人包会被记录）；本机代理/VPN/ROOT 不再扣分；设置页显示更新仓库；长按版本号复制有提示",
+  "version": "1.2.1",
+  "versionCode": 4,
+  "publishedAt": "2026-11-05T18:22:20.372Z",
+  "notes": "1.2.1：包归属标记改为按包加盐（不可反推、不可跨包关联）；设置页显示 build 号；下载地址带版本号，避免拿到旧包",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc.apk",
-    "size": 7874234
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc.apk?v=1.2.1",
+    "size": 7874238
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc.ipa",
-    "size": 5005506
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc.ipa?v=1.2.1",
+    "size": 5005096
   }
 }
