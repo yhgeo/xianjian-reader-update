@@ -1,14 +1,14 @@
 {
   "version": "1.1.0",
   "versionCode": 2,
-  "publishedAt": "2026-11-06T00:55:00Z",
-  "notes": "新增：阅读进度上报、风险提示、更新检查、待授权设备",
+  "publishedAt": "2026-11-05T16:55:28.888Z",
+  "notes": "1.1.0：新增阅读进度上报、风险提示、更新检查；新设备需管理员批准",
   "android": {
     "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc.apk",
-    "size": 0
+    "size": 7857850
   },
   "ios": {
     "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc.ipa",
-    "size": 0
+    "size": 4997942
   }
 }
