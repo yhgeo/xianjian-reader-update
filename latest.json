@@ -1,14 +1,14 @@
 {
-  "version": "1.4.6",
-  "versionCode": 12,
-  "publishedAt": "2026-11-06T09:19:35.682Z",
-  "notes": "修向上滚动一路跳到第一章；修重启后不恢复阅读位置",
+  "version": "1.4.7",
+  "versionCode": 13,
+  "publishedAt": "2026-11-06T09:31:12.013Z",
+  "notes": "章节跳转精确落在章首（修嵌套懒加载与弹层动画干扰）；重启后进度条立即正确",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.6.apk?v=1.4.6",
-    "size": 7890618
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.7.apk?v=1.4.7",
+    "size": 7890622
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.6.ipa?v=1.4.6",
-    "size": 5036850
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.7.ipa?v=1.4.7",
+    "size": 5039733
   }
 }
