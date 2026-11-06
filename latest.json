@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "versionCode": 100,
-  "publishedAt": "2026-11-06T13:04:14.914Z",
-  "notes": "体验版 1.0.0：内置前 300 章（iOS + Android）",
+  "publishedAt": "2026-11-06T13:18:02.721Z",
+  "notes": "体验版 1.0.0：内置前 300 章，同步阅读页上下留白修复",
   "android": {
     "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.0.apk?v=1.0.0",
     "size": 37272721
   },
   "ios": {
     "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.0.ipa?v=1.0.0",
-    "size": 20344562
+    "size": 20345302
   }
 }
