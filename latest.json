@@ -1,14 +1,14 @@
 {
-  "version": "1.4.0",
-  "versionCode": 6,
-  "publishedAt": "2026-11-06T07:10:11.182Z",
-  "notes": "1.4.0：竖向无缝滚动，滚到章末自动接下一章（章末按钮已去掉）；设置页重新分块；顶栏章节名居中；代理/VPN 不再扣分，检测到会提示；新增联系邮箱与免责声明；服务端可主动推送通知",
+  "version": "1.4.1",
+  "versionCode": 7,
+  "publishedAt": "2026-11-06T07:45:21.837Z",
+  "notes": "1.4.1：修复导入新数据后前面几章评论消失；去掉章节之间重复的分隔线；顶栏进度改回本章进度；管理端消息可以指定设备，切回 App 立刻能收到",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.0.apk?v=1.4.0",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.1.apk?v=1.4.1",
     "size": 7874238
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.0.ipa?v=1.4.0",
-    "size": 5030366
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.1.ipa?v=1.4.1",
+    "size": 5030965
   }
 }
