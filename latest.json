@@ -1,14 +1,14 @@
 {
   "version": "1.5.2",
   "versionCode": 17,
-  "publishedAt": "2026-11-06T13:08:33.153Z",
-  "notes": "修复阅读页上下纯色带（安全区 inset 叠加）；顶栏标题兜底",
+  "publishedAt": "2026-11-06T13:15:10.215Z",
+  "notes": "修复阅读页上下纯色带（安全区 inset 叠加 + 正文容器铺满整屏）；顶栏标题兜底",
   "android": {
     "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.2.apk?v=1.5.2",
     "size": 7890622
   },
   "ios": {
     "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.2.ipa?v=1.5.2",
-    "size": 5021408
+    "size": 5021879
   }
 }
