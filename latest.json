@@ -1,14 +1,14 @@
 {
-  "version": "1.0.1",
-  "versionCode": 101,
-  "publishedAt": "2026-11-06T13:37:57.365Z",
-  "notes": "体验版 1.0.1：剥离完整版数据包读取器，APK/IPA 不再带 JDK3 容器格式与 PBKDF2",
+  "version": "1.0.2",
+  "versionCode": 102,
+  "publishedAt": "2026-11-06T16:18:17.853Z",
+  "notes": "体验版 1.0.2：新增首章渲染确认上报",
   "android": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.1.apk?v=1.0.1",
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.2.apk?v=1.0.2",
     "size": 37239953
   },
   "ios": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.1.ipa?v=1.0.1",
-    "size": 20328276
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.2.ipa?v=1.0.2",
+    "size": 20328669
   }
 }
