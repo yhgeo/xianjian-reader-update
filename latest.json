@@ -1,14 +1,14 @@
 {
-  "version": "1.5.0",
-  "versionCode": 15,
-  "publishedAt": "2026-11-06T09:57:21.793Z",
-  "notes": "苹果端正文改为 UICollectionView 渲染：跳转精确落在章首，向上/向下接章不再跳章",
+  "version": "1.5.1",
+  "versionCode": 16,
+  "publishedAt": "2026-11-06T10:20:11.322Z",
+  "notes": "搜索跳转后进度按实际位置显示",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.0.apk?v=1.5.0",
-    "size": 7890622
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.1.apk?v=1.5.1",
+    "size": 7890618
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.0.ipa?v=1.5.0",
-    "size": 5020932
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.1.ipa?v=1.5.1",
+    "size": 5020947
   }
 }
