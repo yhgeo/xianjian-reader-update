@@ -1,14 +1,14 @@
 {
-  "version": "1.5.1",
-  "versionCode": 16,
-  "publishedAt": "2026-11-06T10:20:11.322Z",
-  "notes": "搜索跳转后进度按实际位置显示",
+  "version": "1.6.0",
+  "versionCode": 17,
+  "publishedAt": "2026-11-06T10:59:13.432Z",
+  "notes": "新增可传播的体验版（内置前 300 章）；完整版支持按版本区分上报与心跳",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.1.apk?v=1.5.1",
-    "size": 7890618
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.0.apk?v=1.6.0",
+    "size": 7890622
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.1.ipa?v=1.5.1",
-    "size": 5020947
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.0.ipa?v=1.6.0",
+    "size": 5032969
   }
 }
