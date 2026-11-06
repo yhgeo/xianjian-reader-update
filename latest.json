@@ -1,14 +1,14 @@
 {
-  "version": "1.0.2",
-  "versionCode": 102,
-  "publishedAt": "2026-11-06T16:18:17.853Z",
-  "notes": "体验版 1.0.2：新增首章渲染确认上报",
+  "version": "1.0.3",
+  "versionCode": 103,
+  "publishedAt": "2026-11-06T16:34:00.527Z",
+  "notes": "体验版 1.0.3：安卓设备 ID 与完整版彻底独立；修正旧版非第一章的章节显示",
   "android": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.2.apk?v=1.0.2",
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.3.apk?v=1.0.3",
     "size": 37239953
   },
   "ios": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.2.ipa?v=1.0.2",
-    "size": 20328669
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.3.ipa?v=1.0.3",
+    "size": 20328670
   }
 }
