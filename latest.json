@@ -1,14 +1,14 @@
 {
-  "version": "1.4.8",
-  "versionCode": 14,
-  "publishedAt": "2026-11-06T09:41:33.227Z",
-  "notes": "修复向上滚动不断跳章；改善章末卡顿",
+  "version": "1.5.0",
+  "versionCode": 15,
+  "publishedAt": "2026-11-06T09:57:21.793Z",
+  "notes": "苹果端正文改为 UICollectionView 渲染：跳转精确落在章首，向上/向下接章不再跳章",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.8.apk?v=1.4.8",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.0.apk?v=1.5.0",
     "size": 7890622
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.8.ipa?v=1.4.8",
-    "size": 5042487
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.0.ipa?v=1.5.0",
+    "size": 5020932
   }
 }
