@@ -1,14 +1,14 @@
 {
-  "version": "1.2.1",
-  "versionCode": 4,
-  "publishedAt": "2026-11-05T18:31:49.911Z",
-  "notes": "1.2.1：包归属标记按包加盐；设置页显示 build 号；安装包文件名带版本号",
+  "version": "1.3.0",
+  "versionCode": 5,
+  "publishedAt": "2026-11-06T06:27:42.302Z",
+  "notes": "1.3.0：左右滑动无缝切章（不用再翻到章末点按钮）；评论区右滑一次关闭；修复调整左右留白后右侧文字被裁；补全章节标题评论区的楼中楼回复（需要重新导入 reviews.jdpk）；异地（IP 地级市变化）计入风险分",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.2.1.apk?v=1.2.1",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.3.0.apk?v=1.3.0",
     "size": 7874238
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.2.1.ipa?v=1.2.1",
-    "size": 5005096
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.3.0.ipa?v=1.3.0",
+    "size": 5012733
   }
 }
