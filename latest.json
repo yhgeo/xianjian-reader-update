@@ -1,14 +1,14 @@
 {
-  "version": "1.4.3",
-  "versionCode": 9,
-  "publishedAt": "2026-11-06T08:20:29.014Z",
-  "notes": "1.4.3：修 iOS 读不全大条目导致整章评论消失；重构竖向滚动（向前改成整窗前移，不再循环同一章）；目录/搜索跳转与滚动彻底分离；进度改用实测章高",
+  "version": "1.4.4",
+  "versionCode": 10,
+  "publishedAt": "2026-11-06T08:45:02.656Z",
+  "notes": "修复部分章节评论不显示；目录与搜索跳转落点更准；向上跨章不再瞬间跳到上一章末尾",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.3.apk?v=1.4.3",
-    "size": 7874238
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.4.apk?v=1.4.4",
+    "size": 7890622
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.3.ipa?v=1.4.3",
-    "size": 5037651
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.4.4.ipa?v=1.4.4",
+    "size": 5039506
   }
 }
