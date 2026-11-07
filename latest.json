@@ -1,14 +1,14 @@
 {
-  "version": "1.5.11",
-  "versionCode": 26,
-  "publishedAt": "2026-11-07T18:14:30.863Z",
-  "notes": "1.5.11：正文去除 OCR 重叠/断句，段落按句末标点自然断开；段评改为按引用精确挂到包含该引用的段落（挂不上的归入章评），不再错位；Android 悬浮顶栏固定位置、目录不再闪状态栏",
+  "version": "1.5.12",
+  "versionCode": 27,
+  "publishedAt": "2026-11-07T18:39:28.492Z",
+  "notes": "1.5.12：番外 4 篇用 OCR 原始数据重新拼接，修掉整章开头重复；段评改为严格按引用挂到对应段落（挂不上的进章评），评论不再错位",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.11.apk?v=1.5.11",
-    "size": 7923390
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.12.apk?v=1.5.12",
+    "size": 7923394
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.11.ipa?v=1.5.11",
-    "size": 5076301
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.12.ipa?v=1.5.12",
+    "size": 5076302
   }
 }
