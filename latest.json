@@ -1,14 +1,14 @@
 {
-  "version": "1.5.9",
-  "versionCode": 24,
-  "publishedAt": "2026-11-07T16:50:22.655Z",
-  "notes": "1.5.9：目录按 8 卷分组折叠（默认只展开当前卷，跳转更快）、番外改为独立入口页、正文每卷开头显示卷名色块；修复末章正文与段评对齐、清除 OCR 混入的角标数字、剔除番外尾部作家说，并用段评原文锚点重建 4 篇番外正文",
+  "version": "1.5.10",
+  "versionCode": 25,
+  "publishedAt": "2026-11-07T17:37:21.242Z",
+  "notes": "1.5.10：正文修复（去除 OCR 重叠/断句、尾部作家说，段落按标点自然断开）；悬浮顶栏新增「只显示章节名」开关（章节号再长也不挤）；设置图标改为齿轮；Android 打开评论区不再拉起系统状态栏（顶栏不再一上一下）",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.9.apk?v=1.5.9",
-    "size": 7923390
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.10.apk?v=1.5.10",
+    "size": 7923394
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.9.ipa?v=1.5.9",
-    "size": 5085160
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.10.ipa?v=1.5.10",
+    "size": 5086875
   }
 }
