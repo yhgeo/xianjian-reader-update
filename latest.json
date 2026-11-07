@@ -1,14 +1,14 @@
 {
-  "version": "1.5.3",
-  "versionCode": 18,
-  "publishedAt": "2026-11-07T05:40:34.167Z",
-  "notes": "1.5.3：新增时间线数据包与时间线页面；目录页/阅读页顶栏显示当前章年份与角色",
+  "version": "1.5.4",
+  "versionCode": 19,
+  "publishedAt": "2026-11-07T06:31:18.347Z",
+  "notes": "1.5.4：时间线设置（总开关/章内卡片/顶栏年份/亡标记/世代切换）、目录显示年份、章标题下时间线卡片",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.3.apk?v=1.5.3",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.4.apk?v=1.5.4",
     "size": 7907006
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.3.ipa?v=1.5.3",
-    "size": 5056060
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.4.ipa?v=1.5.4",
+    "size": 5064619
   }
 }
