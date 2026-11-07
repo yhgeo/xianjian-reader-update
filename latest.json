@@ -1,14 +1,14 @@
 {
-  "version": "1.5.7",
-  "versionCode": 22,
-  "publishedAt": "2026-11-07T09:13:42.881Z",
-  "notes": "1.5.7：等待授权页改为面向用户的说明，并附发布页链接",
+  "version": "1.5.8",
+  "versionCode": 23,
+  "publishedAt": "2026-11-07T16:03:27.964Z",
+  "notes": "1.5.8：目录新增番外入口（含建议阅读章节）、按 8 卷色块分组并可折叠；正文与评论源更新至 1648 章（1641 正章 + 7 番外）",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.7.apk?v=1.5.7",
-    "size": 7907006
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.8.apk?v=1.5.8",
+    "size": 7923390
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.7.ipa?v=1.5.7",
-    "size": 5065711
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.8.ipa?v=1.5.8",
+    "size": 5078456
   }
 }
