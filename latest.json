@@ -1,14 +1,14 @@
 {
-  "version": "1.5.4",
-  "versionCode": 19,
-  "publishedAt": "2026-11-07T06:33:57.328Z",
-  "notes": "1.5.4：时间线设置（总开关/章内卡片/顶栏年份/亡标记/世代切换）、目录显示年份、章标题下时间线卡片",
+  "version": "1.5.5",
+  "versionCode": 20,
+  "publishedAt": "2026-11-07T06:48:59.901Z",
+  "notes": "1.5.5：时间线按章节范围打包；去掉亡标记；人物分隔与换行；开关配色统一",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.4.apk?v=1.5.4",
-    "size": 7907006
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.5.apk?v=1.5.5",
+    "size": 7907002
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.4.ipa?v=1.5.4",
-    "size": 5064619
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.5.ipa?v=1.5.5",
+    "size": 5065103
   }
 }
