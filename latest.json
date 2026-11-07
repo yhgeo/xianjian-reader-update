@@ -1,7 +1,7 @@
 {
   "version": "1.5.4",
   "versionCode": 19,
-  "publishedAt": "2026-11-07T06:31:18.347Z",
+  "publishedAt": "2026-11-07T06:33:57.328Z",
   "notes": "1.5.4：时间线设置（总开关/章内卡片/顶栏年份/亡标记/世代切换）、目录显示年份、章标题下时间线卡片",
   "android": {
     "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.4.apk?v=1.5.4",
