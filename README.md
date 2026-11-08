@@ -18,7 +18,7 @@
 
 | | **正式版（加密版）** | **体验版** |
 |---|---|---|
-| 章节数 | 全部 1641 章 | 内置前 300 章 |
+| 章节数 | 全部 1641 章 | 内置前 300 章 + 番外冬景（上/下） |
 | 书籍数据 | 需自行导入（正文 + 评论 + 时间线三份，加密绑定设备） | 内置，打开即用，**不支持导入** |
 | 数据包 | 由作者按设备生成 | 无需数据包 |
 | 适用 | 长期阅读完整本书 | 先试试看 |
@@ -46,8 +46,11 @@
 
 | 平台 | 文件 |
 |---|---|
-| Android | [`XianJianReader-trial-x.x.x.apk`](https://github.com/yhgeo/xianjian-reader-update/raw/trial/XianJianReader-trial-1.0.4.apk) |
-| iPhone / iPad | [`XianJianReader-trial-x.x.x.ipa`](https://github.com/yhgeo/xianjian-reader-update/raw/trial/XianJianReader-trial-1.0.4.ipa)（同样需要自签） |
+| Android | `XianJianReader-trial-<版本号>.apk` |
+| iPhone / iPad | `XianJianReader-trial-<版本号>.ipa`（同样需要自签） |
+
+> 上面的 trial 分支页面里只保留最新版本，直接认准带最新版本号的那两个文件即可；
+> 旧版本发布时会被自动删掉。
 
 体验版内置数据，不需要导入书籍数据。
 
