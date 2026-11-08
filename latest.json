@@ -1,14 +1,14 @@
 {
-  "version": "1.0.4",
-  "versionCode": 105,
-  "publishedAt": "2026-11-07T07:27:06.056Z",
-  "notes": "体验版 1.0.4：同步时间线（内置前 300 章时间线、目录年份、顶栏年份、章内卡片、时间线设置）",
+  "version": "1.0.5",
+  "versionCode": 106,
+  "publishedAt": "2026-11-08T16:55:47.187Z",
+  "notes": "体验版 1.0.5：界面同步完整版 1.6.6；内置前 300 章，新增番外冬景（上/下）；设置首屏可查看完整版差异。",
   "android": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.4.apk?v=1.0.4",
-    "size": 37315013
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.5.apk?v=1.0.5",
+    "size": 37874041
   },
   "ios": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.4.ipa?v=1.0.4",
-    "size": 20378749
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.5.ipa?v=1.0.5",
+    "size": 20791259
   }
 }
