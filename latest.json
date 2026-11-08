@@ -1,14 +1,14 @@
 {
-  "version": "1.6.3",
-  "versionCode": 34,
-  "publishedAt": "2026-11-08T11:49:11.366Z",
-  "notes": "1.6.3：移除上一版误加的「左右滑动翻屏」；分页翻书后续提供",
+  "version": "1.6.4",
+  "versionCode": 35,
+  "publishedAt": "2026-11-08T12:08:56.436Z",
+  "notes": "1.6.4（安卓）：分页翻书（左右翻页、跨章衔接）；阅读设置拆「阅读/数据」页签。iOS 本版仅升版号，分页下版提供",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.3.apk?v=1.6.3",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.4.apk?v=1.6.4",
     "size": 7939774
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.3.ipa?v=1.6.3",
-    "size": 5084138
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.4.ipa?v=1.6.4",
+    "size": 5084137
   }
 }
