@@ -1,14 +1,14 @@
 {
-  "version": "1.6.6",
-  "versionCode": 37,
-  "publishedAt": "2026-11-08T13:51:16.672Z",
-  "notes": "1.6.6：新增意见反馈（设置 → 数据 → 写建议，可直接提给作者）；收到管理员消息后立即回传「已接收」，管理面板可看到送达情况；安卓修复打开评论区时弹出系统状态栏。",
+  "version": "1.6.7",
+  "versionCode": 38,
+  "publishedAt": "2026-11-08T17:59:42.755Z",
+  "notes": "1.6.7：修复打开目录/评论时弹出系统状态栏、右上角「完成」被遮挡点不到、点击穿透到段评、目录页边缘返回手势直接退出 App；番外跳转后直接回到正文。",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.6.apk?v=1.6.6",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.7.apk?v=1.6.7",
     "size": 7972538
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.6.ipa?v=1.6.6",
-    "size": 5101463
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.7.ipa?v=1.6.7",
+    "size": 5101462
   }
 }
