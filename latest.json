@@ -1,14 +1,14 @@
 {
-  "version": "1.6.2",
-  "versionCode": 33,
-  "publishedAt": "2026-11-08T11:40:32.130Z",
-  "notes": "1.6.2：修复部分机型 ANDROID_ID 为全 0 导致设备 ID 为空；左右滑动改为「按屏滚动」文案",
+  "version": "1.6.3",
+  "versionCode": 34,
+  "publishedAt": "2026-11-08T11:49:11.366Z",
+  "notes": "1.6.3：移除上一版误加的「左右滑动翻屏」；分页翻书后续提供",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.2.apk?v=1.6.2",
-    "size": 7939770
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.3.apk?v=1.6.3",
+    "size": 7939774
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.2.ipa?v=1.6.2",
-    "size": 5084139
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.3.ipa?v=1.6.3",
+    "size": 5084138
   }
 }
