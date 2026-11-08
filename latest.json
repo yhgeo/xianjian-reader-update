@@ -1,14 +1,14 @@
 {
-  "version": "1.5.13",
-  "versionCode": 28,
-  "publishedAt": "2026-11-08T10:27:43.031Z",
-  "notes": "1.5.13：修复 iOS 收不到管理页消息（弹窗被口令弹窗覆盖）并改为前台每分钟拉取；Android 目录返回键/点击穿透修复（不再退出 App、点完成不再弹评论区）；评论标签高度收紧；设备首次启动时间永久保留",
+  "version": "1.5.14",
+  "versionCode": 29,
+  "publishedAt": "2026-11-08T10:50:38.438Z",
+  "notes": "1.5.14：顶栏进度可选 本章 / 本卷 / 全书；管理页消息改为客户端确认后记日志；设备首次启动时间永久保留；Android 目录手势与点击穿透修复、评论标签高度优化",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.13.apk?v=1.5.13",
-    "size": 7923394
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.14.apk?v=1.5.14",
+    "size": 7939778
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.13.ipa?v=1.5.13",
-    "size": 5077548
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.14.ipa?v=1.5.14",
+    "size": 5080821
   }
 }
