@@ -1,14 +1,14 @@
 {
-  "version": "1.5.12",
-  "versionCode": 27,
-  "publishedAt": "2026-11-07T18:39:28.492Z",
-  "notes": "1.5.12：番外 4 篇用 OCR 原始数据重新拼接，修掉整章开头重复；段评改为严格按引用挂到对应段落（挂不上的进章评），评论不再错位",
+  "version": "1.5.13",
+  "versionCode": 28,
+  "publishedAt": "2026-11-08T10:27:43.031Z",
+  "notes": "1.5.13：修复 iOS 收不到管理页消息（弹窗被口令弹窗覆盖）并改为前台每分钟拉取；Android 目录返回键/点击穿透修复（不再退出 App、点完成不再弹评论区）；评论标签高度收紧；设备首次启动时间永久保留",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.12.apk?v=1.5.12",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.13.apk?v=1.5.13",
     "size": 7923394
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.12.ipa?v=1.5.12",
-    "size": 5076302
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.13.ipa?v=1.5.13",
+    "size": 5077548
   }
 }
