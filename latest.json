@@ -1,14 +1,14 @@
 {
-  "version": "1.0.6",
-  "versionCode": 107,
-  "publishedAt": "2026-11-08T17:24:17.474Z",
-  "notes": "体验版 1.0.6：修复番外冬景（上/下）点击无法跳转；番外段评已内置；去掉顶栏「完整版」提示。",
+  "version": "1.0.7",
+  "versionCode": 108,
+  "publishedAt": "2026-11-08T17:59:59.183Z",
+  "notes": "体验版 1.0.7：同步修复系统状态栏 / 完成按钮 / 点击穿透 / 边缘返回手势；点击番外后直接回到正文，不再退回目录列表。",
   "android": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.6.apk?v=1.0.6",
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.7.apk?v=1.0.7",
     "size": 37874045
   },
   "ios": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.6.ipa?v=1.0.6",
-    "size": 20791029
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.7.ipa?v=1.0.7",
+    "size": 20791025
   }
 }
