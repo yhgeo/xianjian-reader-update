@@ -1,14 +1,14 @@
 {
-  "version": "1.0.5",
-  "versionCode": 106,
-  "publishedAt": "2026-11-08T16:55:47.187Z",
-  "notes": "体验版 1.0.5：界面同步完整版 1.6.6；内置前 300 章，新增番外冬景（上/下）；设置首屏可查看完整版差异。",
+  "version": "1.0.6",
+  "versionCode": 107,
+  "publishedAt": "2026-11-08T17:24:17.474Z",
+  "notes": "体验版 1.0.6：修复番外冬景（上/下）点击无法跳转；番外段评已内置；去掉顶栏「完整版」提示。",
   "android": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.5.apk?v=1.0.5",
-    "size": 37874041
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.6.apk?v=1.0.6",
+    "size": 37874045
   },
   "ios": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.5.ipa?v=1.0.5",
-    "size": 20791259
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.6.ipa?v=1.0.6",
+    "size": 20791029
   }
 }
