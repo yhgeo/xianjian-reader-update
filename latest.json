@@ -1,14 +1,14 @@
 {
-  "version": "1.6.0",
-  "versionCode": 31,
-  "publishedAt": "2026-11-08T11:14:32.829Z",
-  "notes": "1.6.0：阅读设置拆成「阅读 / 数据」两个页签；管理页首次启动时间显示修复（服务端已更新）",
+  "version": "1.6.1",
+  "versionCode": 32,
+  "publishedAt": "2026-11-08T11:26:29.571Z",
+  "notes": "1.6.1：安卓新增「左右滑动翻页」（默认上下滚动，可在阅读设置开启）；管理页首次启动时间显示修复",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.0.apk?v=1.6.0",
-    "size": 7939774
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.1.apk?v=1.6.1",
+    "size": 7939770
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.0.ipa?v=1.6.0",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.1.ipa?v=1.6.1",
     "size": 5084136
   }
 }
