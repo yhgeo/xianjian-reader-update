@@ -1,14 +1,14 @@
 {
-  "version": "1.6.4",
-  "versionCode": 35,
-  "publishedAt": "2026-11-08T12:08:56.436Z",
-  "notes": "1.6.4（安卓）：分页翻书（左右翻页、跨章衔接）；阅读设置拆「阅读/数据」页签。iOS 本版仅升版号，分页下版提供",
+  "version": "1.6.6",
+  "versionCode": 37,
+  "publishedAt": "2026-11-08T13:51:16.672Z",
+  "notes": "1.6.6：新增意见反馈（设置 → 数据 → 写建议，可直接提给作者）；收到管理员消息后立即回传「已接收」，管理面板可看到送达情况；安卓修复打开评论区时弹出系统状态栏。",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.4.apk?v=1.6.4",
-    "size": 7939774
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.6.apk?v=1.6.6",
+    "size": 7972538
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.4.ipa?v=1.6.4",
-    "size": 5084137
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.6.ipa?v=1.6.6",
+    "size": 5101463
   }
 }
