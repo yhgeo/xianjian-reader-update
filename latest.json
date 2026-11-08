@@ -1,14 +1,14 @@
 {
-  "version": "1.0.7",
-  "versionCode": 108,
-  "publishedAt": "2026-11-08T17:59:59.183Z",
-  "notes": "体验版 1.0.7：同步修复系统状态栏 / 完成按钮 / 点击穿透 / 边缘返回手势；点击番外后直接回到正文，不再退回目录列表。",
+  "version": "1.0.8",
+  "versionCode": 109,
+  "publishedAt": "2026-11-08T18:22:16.880Z",
+  "notes": "体验版 1.0.8：同步修复评论区系统顶栏闪现与目录「完成」穿透；iOS 更新源改回 trial 分支。",
   "android": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.7.apk?v=1.0.7",
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.8.apk?v=1.0.8",
     "size": 37874045
   },
   "ios": {
-    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.7.ipa?v=1.0.7",
-    "size": 20791025
+    "url": "https://raw.githubusercontent.com/yhgeo/xianjian-reader-update/trial/XianJianReader-trial-1.0.8.ipa?v=1.0.8",
+    "size": 20791006
   }
 }
