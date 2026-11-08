@@ -1,14 +1,14 @@
 {
-  "version": "1.5.14",
-  "versionCode": 29,
-  "publishedAt": "2026-11-08T10:50:38.438Z",
-  "notes": "1.5.14：顶栏进度可选 本章 / 本卷 / 全书；管理页消息改为客户端确认后记日志；设备首次启动时间永久保留；Android 目录手势与点击穿透修复、评论标签高度优化",
+  "version": "1.5.15",
+  "versionCode": 30,
+  "publishedAt": "2026-11-08T11:02:33.698Z",
+  "notes": "1.5.15：设置界面把顶栏相关选项单独分组；修复管理页首次启动时间显示报错（服务端已更新）",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.14.apk?v=1.5.14",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.15.apk?v=1.5.15",
     "size": 7939778
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.14.ipa?v=1.5.14",
-    "size": 5080821
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.5.15.ipa?v=1.5.15",
+    "size": 5080816
   }
 }
