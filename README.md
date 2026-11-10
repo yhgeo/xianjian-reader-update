@@ -32,28 +32,33 @@
 
 ## 下载
 
-### 正式版（加密版）— Release 下载
+### 正式版 — Release 下载
 
-到 **[Releases](https://github.com/yhgeo/xianjian-reader-update/releases/tag/latest)** 页面下载最新版本：
+到 **[Releases](https://github.com/yhgeo/xianjian-reader-update/releases)** 页面，
+挑最新的版本号（tag 形如 `v1.6.8`）：
 
 | 平台 | 文件 | 说明 |
 |---|---|---|
 | Android | `XianJianReader-enc-<版本号>.apk` | 直接安装。首次需要在系统里允许「安装未知来源应用」 |
 | iPhone / iPad | `XianJianReader-enc-<版本号>.ipa` | 未签名。需要用自签工具安装（AltStore、Sideloadly、TrollStore 等） |
 
-> 安装包文件名带版本号，升级时认准新的那个。Release 里只保留最新版，旧包会被自动删掉。
+> 一个版本一个 Release，**旧版本都留着**，想回退随时能下。
 
-### 体验版 — trial 分支下载
+### 体验版 — 独立版本线
 
-体验版的安装包直接放在 **[trial 分支](https://github.com/yhgeo/xianjian-reader-update/tree/trial)** 里：
+体验版也在同一个 Releases 页面，标题是「体验版 x.y.z」，标着 **Pre-release**，
+不会顶掉正式版：
 
 | 平台 | 文件 |
 |---|---|
 | Android | `XianJianReader-trial-<版本号>.apk` |
 | iPhone / iPad | `XianJianReader-trial-<版本号>.ipa`（同样需要自签） |
 
-> 分支里只保留最新版本的两个安装包，认准带最新版本号的文件即可；旧版本发布时会被自动删掉。
-> 体验版数据已内置，不需要导入任何文件。
+> 体验版数据已内置，装好打开就能读，不需要导入任何文件。
+
+### 更新日志
+
+每个版本改了什么：**[CHANGELOG.md](CHANGELOG.md)**。
 
 ---
 
