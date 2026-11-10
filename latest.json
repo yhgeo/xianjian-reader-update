@@ -1,14 +1,14 @@
 {
-  "version": "1.6.8",
-  "versionCode": 39,
-  "publishedAt": "2026-11-08T18:21:58.676Z",
-  "notes": "1.6.8：修复打开评论区时系统顶栏闪现、目录点「完成」穿透到阅读设置；覆盖层打开时正文层不再接收触摸。",
+  "version": "1.6.9",
+  "versionCode": 40,
+  "publishedAt": "2026-11-10T12:46:13.852Z",
+  "notes": "目录卷名吸顶，往下翻章节时卷名停在顶部，点一下即可折叠换卷；新增评论防护，剧透、未出场人物与自定义关键词都会先遮蔽，默认只挡命中的评论；悬浮顶栏收窄，上滑收起更顺手；时间线上人物去世后年龄不再增长，从次年起标注「亡」。",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/v1.6.8/XianJianReader-enc-1.6.8.apk?v=1.6.8",
-    "size": 7972538
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/v1.6.9/XianJianReader-enc-1.6.9.apk?v=1.6.9",
+    "size": 8005310
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/v1.6.8/XianJianReader-enc-1.6.8.ipa?v=1.6.8",
-    "size": 5101462
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/v1.6.9/XianJianReader-enc-1.6.9.ipa?v=1.6.9",
+    "size": 5147305
   }
 }
