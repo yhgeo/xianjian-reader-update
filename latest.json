@@ -4,11 +4,11 @@
   "publishedAt": "2026-11-08T18:21:58.676Z",
   "notes": "1.6.8：修复打开评论区时系统顶栏闪现、目录点「完成」穿透到阅读设置；覆盖层打开时正文层不再接收触摸。",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.8.apk?v=1.6.8",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/v1.6.8/XianJianReader-enc-1.6.8.apk?v=1.6.8",
     "size": 7972538
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/latest/XianJianReader-enc-1.6.8.ipa?v=1.6.8",
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/v1.6.8/XianJianReader-enc-1.6.8.ipa?v=1.6.8",
     "size": 5101462
   }
 }
