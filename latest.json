@@ -1,14 +1,14 @@
 {
-  "version": "1.7.0",
-  "versionCode": 41,
-  "publishedAt": "2026-11-12T14:08:15.023Z",
-  "notes": "分页新增仿真翻页（纸页沿折痕翻起）；修复分页最后一行被裁、章标题评论数不显示；评论防护合并为一个开关，支持正则关键词与未出场人物识别",
+  "version": "1.7.1",
+  "versionCode": 42,
+  "publishedAt": "2026-11-25T09:17:06.657Z",
+  "notes": "数据包版本独立显示（设置页+管理页）；服务端地址连不上时自动从GitHub拉备用地址；更新通知弹窗（7天免打扰）；修复iPadOS同设备多设备ID；Codemagic替代Actions编译",
   "android": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/v1.7.0/XianJianReader-enc-1.7.0.apk?v=1.7.0",
-    "size": 8021694
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/v1.7.1/XianJianReader-enc-1.7.1.apk?v=1.7.1",
+    "size": 8021690
   },
   "ios": {
-    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/v1.7.0/XianJianReader-enc-1.7.0.ipa?v=1.7.0",
-    "size": 5166669
+    "url": "https://github.com/yhgeo/xianjian-reader-update/releases/download/v1.7.1/XianJianReader-enc-1.7.1.ipa?v=1.7.1",
+    "size": 5177738
   }
 }
